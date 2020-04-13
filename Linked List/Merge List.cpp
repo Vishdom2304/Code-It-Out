@@ -1,3 +1,6 @@
+//hackerrank problem
+// Question link = https://www.hackerrank.com/challenges/merge-list/problem
+// Number of ways to merge two links , retaining order of each lists
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
