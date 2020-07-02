@@ -1,5 +1,5 @@
-// codeforces problem on use of pairs of set
-// problem link :- [porblem link here](https://codeforces.com/contest/181/problem/B)
+// codeforces problem on use of pairs of set.
+// problem link :- https://codeforces.com/contest/181/problem/B
 #include <bits/stdc++.h>
 using namespace std;
 
